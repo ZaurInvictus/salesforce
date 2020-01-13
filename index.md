@@ -15,7 +15,7 @@
   <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
 
     <input type=hidden name="oid" value="00D6g000003rjfO">
-    <input type=hidden name="retURL" value="thankyoupage.html">
+    <input type=hidden name="retURL" value="thankyou.md">
    
     <!--  ----------------------------------------------------------------------  -->
     <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
